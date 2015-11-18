@@ -1,0 +1,1 @@
+CoolReader 0.5 beta
